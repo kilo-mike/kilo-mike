@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a Java SDET Treinee ☕
+I am a Java SDET Treinee currently at Sparta Global ☕
 
 
 <!--
